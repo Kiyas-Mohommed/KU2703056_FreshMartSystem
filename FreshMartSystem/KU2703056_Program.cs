@@ -1,6 +1,6 @@
 ﻿namespace FreshMartSystem
 {
-    internal class Program
+    internal class KU2703056_Program
     {
         static void Main(string[] args)
         {
